@@ -1,4 +1,4 @@
-# CREDITS xAffan, LICENSE GNU V3 (DO NOT REMOVE THE CREDITS)
+# s CREDITS xAffan, LICENSE GNU V3 (DO NOT REMOVE THE CREDITS)
 
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
